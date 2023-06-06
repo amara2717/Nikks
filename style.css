@@ -1,5 +1,5 @@
 body {
-    background-image: url('bg.jpg'); 
+    background-image: url(images\vs.jpg''); 
     background-size: cover;
     background-position: center;
 }
@@ -10,7 +10,7 @@ body {
     top: 50%;
     right: 20px;
     transform: translateY(-50%);
-    background-image: url('bg.jpg'); 
+    background-image: url('images\vs.jpg'); 
     background-size: cover;
     background-position: center;
     padding: 20px;
